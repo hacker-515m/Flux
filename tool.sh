@@ -6,3 +6,5 @@ cd fluxion
 chmod +x *
 
 ./fluxion.sh
+
+firefox https://t.me/bahaa_010640
